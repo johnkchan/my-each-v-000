@@ -1,8 +1,8 @@
 def my_each(collection) # put argument(s) here
   # code here
-  count = collection.size
-  while count > 0
+  i = 0
+  while i < array.length
   
-    count -= 1
+    i = i + 1
   end
 end
